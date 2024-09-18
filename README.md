@@ -13,3 +13,6 @@ This is a simple web application that uses the Web Speech API to convert text in
 1. Input your text in the text area.
 2. Select a voice from the dropdown menu (optional, default voice will be used otherwise).
 3. Click the "Speak" button, and the selected voice will speak the inputted text.
+
+## Live Demo
+https://vidhimudaliar.github.io/text-to-speech-convertor/
